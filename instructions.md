@@ -23,5 +23,3 @@
 ! [Изображение] (Screenshot_20220726-220450.jpg)
 
 [ссылка] (https://gist.github.com/Jekins/2bf2d0638163f1294637)
-
-"branch1"
